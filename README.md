@@ -36,6 +36,10 @@ I've been learning to code for 5 year. I started with Batch, but have really fou
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+<p aligh="left">
+<img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="46" height="46" alt="Android SDK Platform Tools" /></a>
+<img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" width="46" height="46" alt="TensorFlow" /></a>
+</p>
 
 <b>My GitHub Stats</b>
 
