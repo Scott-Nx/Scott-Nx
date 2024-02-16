@@ -37,9 +37,9 @@ I've been learning to code for 5 year. I started with Batch, but have really fou
 
 ### Badges
 <p aligh="left">
-<img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="46" height="46" alt="Android SDK Platform Tools" /></a>
-<img src="https://developers.google.com/static/profile/badges/playlists/android/android-11-all-pathways/Android-Badges-Completion.svg" width="46" height="46" alt="Android 11 Completion" /></a>
-<img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" width="46" height="46" alt="TensorFlow" /></a>
+<img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="46" height="46" alt="Android SDK Platform Tools" />
+<img src="https://developers.google.com/static/profile/badges/playlists/android/android-11-all-pathways/Android-Badges-Completion.svg" width="46" height="46" alt="Android 11 Completion" />
+<img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" width="46" height="46" alt="TensorFlow" />
 </p>
 
 <b>My GitHub Stats</b>
