@@ -1,4 +1,4 @@
-👋 Hi, I'm @Byteintosh
+👋 Hi, I'm Scott
 ===========================
 
 Student
@@ -6,7 +6,7 @@ Student
 
 I've been learning to code for 5 year. I started with Batch, but have really found a passion for backed development
 
-*   🌍  I'm based in Bangkok, Thailand
+*   🌍  I'm based in Nonthaburi, Thailand
 *   🧠  I'm learning a Artificial Intelligence
 
 ### Skills 
@@ -35,7 +35,7 @@ I've been learning to code for 5 year. I started with Batch, but have really fou
 
 ### Socials
 <p align="left"> 
-<a href="https://www.github.com/Byteintosh" target="_blank" rel="noreferrer"> <picture>
+<a href="https://www.github.com/Nathawat-GH" target="_blank" rel="noreferrer"> <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="http://www.instagram.com/nathawat.ig" target="_blank" rel="noreferrer"> <picture> 
@@ -52,8 +52,8 @@ I've been learning to code for 5 year. I started with Batch, but have really fou
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Byteintosh"><img src="https://github-readme-stats.vercel.app/api?username=Byteintosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Byteintosh's GitHub stats" /></a>
+<a href="http://www.github.com/Nathawat-GH"><img src="https://github-readme-stats.vercel.app/api?username=Nathawat-GH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Scott's GitHub stats" /></a>
 
-<a href="http://www.github.com/Byteintosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Byteintosh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Nathawat-GH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathawat-GH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Byteintosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byteintosh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Nathawat-GH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathawat-GH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
