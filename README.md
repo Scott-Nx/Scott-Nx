@@ -6,7 +6,6 @@ Student
 
 I've been learning to code for 5 year. I started with Batch, but have really found a passion for backed development
 
-*   🌍  I'm based in Nonthaburi, Thailand
 *   🧠  I'm learning a Artificial Intelligence
 
 ### Skills 
