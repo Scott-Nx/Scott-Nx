@@ -1,4 +1,4 @@
-👋 Hi, I'm Nathawat Chalapinyo
+👋 Hi, I'm Nathawat
 ===========================
 
 Student
