@@ -1,4 +1,4 @@
-👋 Hi, I'm Scott
+👋 Hi, I'm Nathawat Chalapinyo
 ===========================
 
 Student
