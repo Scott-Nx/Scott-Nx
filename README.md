@@ -6,7 +6,7 @@ Student
 
 I started with Batch, but have really found a passion for backed development
 
-* 🧠  I'm learning I'm learning a Artificial Intelligence
+* 🧠  I'm learning a Artificial Intelligence
 
 ### Skills
 
