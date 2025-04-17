@@ -6,6 +6,7 @@ Student
 
 I started with Batch, but have really found a passion for backed development
 
+*   🚀  I'm currently working on [AUR maintainer of Bootstrap Studio](https://aur.archlinux.org/packages/bootstrap-studio)
 * 🧠  I'm learning a Artificial Intelligence
 
 ### Skills
