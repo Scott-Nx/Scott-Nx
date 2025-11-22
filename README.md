@@ -2,6 +2,7 @@
 
 ## Student
 
+- 🚀  I'm currently working on [AUR maintainer of Quantumlauncher](https://aur.archlinux.org/packages/quantumlauncher-bin)
 - 🚀  I'm currently working on [AUR maintainer of Bootstrap Studio](https://aur.archlinux.org/packages/bootstrap-studio)
 
 ### Skills
