@@ -18,6 +18,14 @@
 
 </div>
 
-<a href="http://www.github.com/Scott-Nx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Nx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="https://github.com/Scott-Nx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scott-Nx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Scott-Nx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Scott-Nx)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scott-Nx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages)](https://github.com/Scott-Nx)
+
+</div>
